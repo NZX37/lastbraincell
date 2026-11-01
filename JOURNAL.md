@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 2 | 20h | 4 |
+| Week 4 | Tier 2 | 22h | 4 |
 
 ## Contents
 
@@ -115,7 +115,7 @@ This is in the fusion file which was also put into the repo.
 
 ### 2026-11-01: # Fixes and microSD
 
-**5h**
+**7h**
 
 # Fixes and microSD
 
@@ -137,3 +137,19 @@ With the module, I had to add a space for the microsd module to protrude in the 
 ## Costs of PCB
 Using JLCPCB, I calculate the cost to be $3.50. The below graphic is from JLCPCB.
 ![image](https://halflife.hackclub-assets.com/sessions/u4daV3AON4Vg7wKuOmDpozDubBrsNyfk/b4d74a78f115c523aad522c25404914652127c20226aba601d88ab3a6083ed9f.png)
+
+## Readme
+
+Just following the guides. I did add this cool PCB button that i previously glossed over.
+
+![image](https://halflife.hackclub-assets.com/sessions/u4daV3AON4Vg7wKuOmDpozDubBrsNyfk/2a5c57cddd88c1590382411f1964a88055c32fc2c883928985772f62d4f6fb91.png)
+
+## Code
+
+![image](https://halflife.hackclub-assets.com/sessions/u4daV3AON4Vg7wKuOmDpozDubBrsNyfk/ed5dcf2aa07efe7bb4c76602137e1998f3e8c977e4364e17a86a1f2f58ebab46.png)
+
+This code tests that the screen and calendar functions work, since I cannot really implement the full system without testing it out on the PCB and I typically do not do firmware before getting the actual boards.
+
+![image](https://halflife.hackclub-assets.com/sessions/u4daV3AON4Vg7wKuOmDpozDubBrsNyfk/431ad625891cbe35745408061f68838ea5bed95ffd361cac8b0bb7b516515cd6.png)
+
+Full github repo!
