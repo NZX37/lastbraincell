@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 2 | 14h | 3 |
+| Week 4 | Tier 2 | 15h | 3 |
 
 ## Contents
 
@@ -58,7 +58,7 @@ PCBs
 
 ### 2026-10-31: # PCB
 
-**6h**
+**7h**
 
 # PCB
 
@@ -87,6 +87,8 @@ Case done!!
 ## Quick screen fix
 
 ![image](https://halflife.hackclub-assets.com/sessions/u4daV3AON4Vg7wKuOmDpozDubBrsNyfk/c6ba948f9b61b7eb160f446d0d619a8dabf7b78142679fd4f0c2ec0264d42c38.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/u4daV3AON4Vg7wKuOmDpozDubBrsNyfk/2dcfd727d4d0a1b8b1258453f537d5316ee163f5d03662f26ec1f25641a4f05a.png)
 The screen was rotated the wrong way so quick fix!
 
 ### 2026-10-31: # Exporting files and BOM
