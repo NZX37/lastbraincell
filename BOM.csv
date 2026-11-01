@@ -1,0 +1,9 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Joystick,1,mouser,$5.25,$5.25,https://www.mouser.com/en/ProductDetail/SparkFun/COM-09032?qs=WyAARYrbSnb9u7eU4VaEfQ%3D%3D
+"400x300, 4.2inch E-Ink display module",1,waveshare,$28.99,$28.99,https://www.waveshare.com/product/4.2inch-e-paper-module.htm
+ESP32-S3 DevKitC-1,1,shopee,$4.65,$4.65,https://shopee.sg/ESP32-S3-Core-Board-N8R2-Compatible-DevKitC-1-ESP32S3-Split-Board-N8R8-N16R8-i.1343160077.44474151195?is_from_login=true
+Clock Module RTC DS3231,1,Shopee,$0.63,$0.63,https://shopee.sg/product/365165105/5973119400?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEbAAAAAwVP2H7RarGOYrsKkcObJQjabSv0Kz8m6HKcmZUTdZjPQM9qNGN9buHy8fdh943ONNCwqcow73IZ6-K2eI9TXkz7QC3F5UsoTlefP_KLXsjepfXvrv-ovI_w9kedD5iGr8AQtAPwOZsOA
+microsd card 16gb,1,shopee,$5.89,$5.89,https://shopee.sg/High-speed-C10-1TB-512GB-256GB-128GB-64GB-32GB-16GB-universal-storage-card-Micro-SD-card-suitable-for-all-devices-i.369321985.42924869957?extraParams=%7B%22display_model_id%22%3A297015839168%2C%22model_selection_logic%22%3A3%7D&image_ids=sg-11134201-824hw-me6u1m71y2v737
+microsd slot,1,shopee,$3.82,$3.82,https://shopee.sg/product/199330107/25034217146?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMaBRvcqdZwgRklGTWoHoxFGhRfNAexxPkhN1n8rcCO5qFEud_-aY2hsGdfUnqCpX0P0Z7lpJy6IP6_Ew8qmNpcGhlcnRleHTEbgAAAAxM-8YZQgJ5YRGEmaM6dypxo7mchFG4Ae0urfLGCIfPmaLLcjL1oxtv3tpZcO4sWPNlQ-UdMwXSdYZQYheLBGx_uwVIvj8jIHw3-UBpaOAJFyi5hsfAv5V-alpKufA6X4b4WiMVUFacHISp
+PCB,1,JLCPCB,$2.00,$2.00,https://jlcpcb.com
+Estimated total shipping,1,,,$7.00,
