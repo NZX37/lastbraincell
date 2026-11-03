@@ -1,5 +1,5 @@
 # LastBraincell
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/nzx37/lastbraincell/tree/main/pcb)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/nzx37/lastbraincell/tree/main/pcb/LastBraincell.kicad_pcb)
 <img width="954" height="634" alt="Screenshot 2026-11-01 071413" src="https://github.com/user-attachments/assets/f287e193-c5d9-424f-9962-633bbd5821dd" />
 An e-paper device with joystick and buttons to write down reminders, a to-do list and basic references(like resistor table) as well as a calendar!
 
